@@ -15,6 +15,11 @@ public:
     explicit centofara(QWidget *parent = 0);
     ~centofara();
 
+private slots:
+    void on_pushButton_2_clicked();
+
+    void on_pushButton_clicked();
+
 private:
     Ui::centofara *ui;
 };

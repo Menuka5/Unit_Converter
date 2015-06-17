@@ -12,3 +12,15 @@ sltodoll::~sltodoll()
 {
     delete ui;
 }
+
+void sltodoll::on_pushButton_2_clicked()
+{
+    close();
+}
+
+void sltodoll::on_pushButton_clicked()
+{
+    double a = ui->lineEdit->text().toDouble();
+    a = a/133.99;
+    ui->label_3->setText(QString::number(a));
+}

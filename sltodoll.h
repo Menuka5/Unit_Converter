@@ -15,6 +15,11 @@ public:
     explicit sltodoll(QWidget *parent = 0);
     ~sltodoll();
 
+private slots:
+    void on_pushButton_2_clicked();
+
+    void on_pushButton_clicked();
+
 private:
     Ui::sltodoll *ui;
 };

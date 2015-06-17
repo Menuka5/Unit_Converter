@@ -15,6 +15,11 @@ public:
     explicit celtokel(QWidget *parent = 0);
     ~celtokel();
 
+private slots:
+    void on_pushButton_2_clicked();
+
+    void on_pushButton_clicked();
+
 private:
     Ui::celtokel *ui;
 };
