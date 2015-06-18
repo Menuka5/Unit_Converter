@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dollars to Rs</string>
+   <string>Dollars to Rupees</string>
   </property>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
@@ -64,7 +64,7 @@
     <rect>
      <x>30</x>
      <y>30</y>
-     <width>191</width>
+     <width>201</width>
      <height>31</height>
     </rect>
    </property>
@@ -74,7 +74,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Add the number of dollars</string>
+    <string>Add the amount of dollars</string>
    </property>
   </widget>
   <widget class="QLabel" name="llbOrder">
@@ -110,13 +110,13 @@
     </font>
    </property>
    <property name="text">
-    <string>Value of SL Ruppes</string>
+    <string>Value of SL Rupees</string>
    </property>
   </widget>
   <widget class="QLabel" name="llbOrder_3">
    <property name="geometry">
     <rect>
-     <x>320</x>
+     <x>350</x>
      <y>100</y>
      <width>47</width>
      <height>13</height>

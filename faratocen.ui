@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>fahrenheit to Centigrades</string>
+   <string>Fahrenheit to Centigrade</string>
   </property>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Convert to centigrades</string>
+    <string>Convert to centigrade</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_2">
@@ -129,6 +129,9 @@
      <width>113</width>
      <height>20</height>
     </rect>
+   </property>
+   <property name="text">
+    <string/>
    </property>
   </widget>
  </widget>
