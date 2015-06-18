@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>Miles to Km</string>
   </property>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">

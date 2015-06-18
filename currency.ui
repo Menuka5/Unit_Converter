@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="text">
-    <string>US Dollars to SL Ruppes</string>
+    <string>US Dollars to SL Rupees </string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_2">
@@ -46,7 +46,7 @@
     </font>
    </property>
    <property name="text">
-    <string>SL Ruppes to US Dollars</string>
+    <string>SL Rupees  to US Dollars</string>
    </property>
   </widget>
  </widget>
